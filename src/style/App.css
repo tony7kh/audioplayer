@@ -1,0 +1,8 @@
+.Wrapper {
+  box-sizing: border-box;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}

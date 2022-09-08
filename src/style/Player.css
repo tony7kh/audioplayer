@@ -1,0 +1,22 @@
+.Player {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  position: fixed;
+  padding: 30px 20px;
+  background: rgba(180, 180, 180, 0.9);
+  bottom: 0;
+  right: 0;
+  width: 25vw;
+}
+
+.Player_progress_bar {
+  width: 100%;
+}
+.Player_volume_slider {
+  max-width: 50%;
+  margin: 0 10px;
+}
+.Tittle-name {
+  white-space: nowrap;
+}
